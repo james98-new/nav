@@ -2,7 +2,7 @@
   "name": "nav",
   "version": "17.0.0",
   "author": "xiejiahe",
-  "homepage": "https://github.com/xjh22222228/nav",
+  "homepage": "https://github.com/james98-new/nav",
   "scripts": {
     "formatlint": "npm run format && npm run lint",
     "lint": "oxlint",
