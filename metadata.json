@@ -1,0 +1,5 @@
+{
+  "name": "CloudNav - Modern Navigation Portal",
+  "description": "A feature-rich navigation dashboard clone with an administrative backend, 6-column grid layout, and integrated Google/Baidu search. Admin users can manage bookmarks with ease.",
+  "requestFramePermissions": []
+}
