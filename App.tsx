@@ -1,5 +1,6 @@
 
 import React, { useState, useEffect, useMemo } from 'react';
+import { SpeedInsights } from '@vercel/speed-insights/react';
 import SearchBox from './components/SearchBox';
 import BookmarkCard from './components/BookmarkCard';
 import AdminModal from './components/AdminModal';
@@ -58,6 +59,7 @@ const App: React.FC = () => {
 
   return (
     <div className="min-h-screen pb-20 bg-blue-50">
+      <SpeedInsights />
       {/* Header & Search */}
       <header className="pt-16 pb-8 px-4 bg-gradient-to-b from-blue-100 to-transparent">
         <div className="max-w-7xl mx-auto flex flex-col items-center">
